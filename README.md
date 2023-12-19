@@ -1,3 +1,2 @@
-# RUST
-# RUST
-# RUST
+# RUST practice 
+
